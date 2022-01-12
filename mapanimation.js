@@ -14,7 +14,7 @@ const busStops = [
   [-71.118625, 42.374863],
 ];
 
-// TODO: add your own access token
+// Access token
 mapboxgl.accessToken = 'pk.eyJ1IjoicmpkdXJzdCIsImEiOiJja3k3aXNuMmwxNjR1MndxOW5wOWtscXFqIn0.eAKZrUdm3qQTw3GHUT_tag';
 
 // This is the map instance
@@ -25,7 +25,7 @@ let map = new mapboxgl.Map({
   zoom: 14,
 });
 
-// TODO: add a marker to the map at the first coordinates in the array busStops. The marker variable should be named "marker"
+// Add a marker to the map at the first coordinates in the array busStops. The marker variable should be named "marker"
 var marker = new mapboxgl.Marker({"color": "#b01409" })
   .setLngLat([-71.093729, 42.359244])
   .addTo(map);
@@ -45,7 +45,6 @@ function move() {
     }, 1000);
 }
 
-// Do not edit code past this point
 if (typeof module !== 'undefined') {
   module.exports = { move };
 }
