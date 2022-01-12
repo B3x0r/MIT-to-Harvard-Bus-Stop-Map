@@ -16,7 +16,7 @@ It doesn't really do enough to need support yet.
  
 #### Roadmap: 
  
-I would like to get the marker to change from a Cardnal red at MIT to a Crimson at Harvard.
+I would like to get the marker to change from a Cardinal red at MIT to a Crimson at Harvard.
  
 #### License information:
  
