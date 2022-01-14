@@ -4,7 +4,7 @@ This was a week 9 assignment that originally pulled up a street map and shows yo
  
 #### Installation:
  
-You can copy the files into the same folder on your device. Then, you drag the .html file and it into the url line. Then, click on the button to see the animation.
+You can copy the files into the same folder on your device. You will then need to add your own mapboxgl access token to line 17 of the js file. Then, you drag the .html file and it into the url line. Then, click on the button to see the animation.
  
 #### Usage:
  
