@@ -1,6 +1,8 @@
 # MIT-to-Harvard-Bus-Stop-Map
 #### Description:
 This was a week 9 assignment that originally pulled up a street map and shows you the stops between MIT and Harvard. I changed it to a satellite street map of Boston. Updated the marker to be red, since both University’s have red (crimson or cardinal) as a color.
+
+<img src= "Bus Stop Map.jpg" width='300'/>
  
 #### Installation:
  
